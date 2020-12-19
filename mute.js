@@ -1,6 +1,6 @@
 function toggleMute() {
 
-  var video=document.getElementById("videoId");
+  var video=document.getElementById("haku_video");
 
   if(video.muted){
     video.muted = false;
